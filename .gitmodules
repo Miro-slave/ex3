@@ -1,0 +1,3 @@
+[submodule "MyRepositury"]
+	path = MyRepositury
+	url = https://github.com/Miro-slave/MyRepositury.git
