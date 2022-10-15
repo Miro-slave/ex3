@@ -3,7 +3,10 @@
 project includes:
 
 *quick sort
+
 *merge sort
+
 *inserion sort
+
 
 release1
