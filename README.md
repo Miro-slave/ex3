@@ -1,3 +1,7 @@
-# sorting algorithms for std::int32_t
+#SORTING ALGORITHMS FOR STD::UINT32_T
 
-*there isn't any algorithm for now
+project includes:
+
+*quick sort
+*merge sort
+*inserion sort
